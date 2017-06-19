@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GenchewViewTool::Renderer.copyright 'Radoslav Genchev', 'All rights reserved'
+```
 
 ## Development
 
